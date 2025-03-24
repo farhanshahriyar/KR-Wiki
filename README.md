@@ -9,8 +9,6 @@ KingsRock Official Liquipedia is a React-based web application, designed to prov
 - [Directory Structure](#directory-structure)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
