@@ -1,4 +1,4 @@
-```markdown
+
 # KingsRock Official Liquipedia
 
 KingsRock Official Liquipedia is a React-based web application, designed to provide a comprehensive overview of the KR Wiki. The project utilizes TypeScript, TailwindCSS, and Vite for development. It features a well-structured component-based architecture that enables easy maintenance and extensibility.
@@ -24,8 +24,7 @@ This project is powered by:
 ## Directory Structure
 
 Here’s the basic structure of the project:
-
-```
+```markdown
 farhanshahriyar-kr-wiki/
 │
 ├── components.json                # JSON file containing component metadata
