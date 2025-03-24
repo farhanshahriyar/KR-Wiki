@@ -44,7 +44,7 @@ export function PlayerStats({ matches }: { matches: any[] }) {
                       <div className="bg-background border rounded-lg p-2 shadow-md">
                         <p className="text-sm">Match {payload[0].payload.match}</p>
                         <p className="text-sm font-bold">
-                          KDA: {payload[0].value?.toFixed(2)}
+                          {/* KDA: {payload[0].value?.toFixed(2)} */}
                         </p>
                       </div>
                     );

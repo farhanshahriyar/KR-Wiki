@@ -6,11 +6,11 @@ interface TimelineEvent {
 }
 
 interface TimelineYearProps {
-  year: string;
+  // year: string;
   events: TimelineEvent[];
 }
 
-export function TimelineYear({ year, events }: TimelineYearProps) {
+export function TimelineYear({ events }: TimelineYearProps) {
   return (
     <Card>
       <CardContent className="p-6">

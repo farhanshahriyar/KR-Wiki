@@ -3,6 +3,10 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { TimelineYear } from "./TimelineYear";
 
 const timelineData = {
+  "2025": [
+    { date: "March 3", description: "GreenAssassain left from KingsRock" },
+    { date: "June 14", description: "Emberfall joined KingsRock" },
+  ],
   "2024": [
     { date: "June 14", description: "MBM and RoboCop restored KingsRock" },
     { date: "July 30", description: "DEEZAS joined in KingsRock." },
@@ -33,6 +37,7 @@ export function HistoryTimeline() {
           <TabsList className="grid grid-cols-6 mb-4">
             <TabsTrigger value="2023">2023</TabsTrigger>
             <TabsTrigger value="2024">2024</TabsTrigger>
+            <TabsTrigger value="2025">2025</TabsTrigger>
             <TabsTrigger value="all">Show All</TabsTrigger>
           </TabsList>
           {Object.entries(timelineData).map(([year, events]) => (

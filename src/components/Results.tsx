@@ -4,6 +4,33 @@ import { cn } from '@/lib/utils';
 
 const results = [
   {
+    date: 'March 23, 2025 - 11:00',
+    tier: 'C-Tier',
+    type: 'Online',
+    tournament: 'Aorus Cup Season 2',
+    score: '0:2',
+    opponent: 'DEAD3YE Esports',
+    result: 'loss'
+  },
+  {
+    date: 'March 22, 2025 - 11:00',
+    tier: 'C-Tier',
+    type: 'Online',
+    tournament: 'Aorus Cup Season 2',
+    score: '0:1',
+    opponent: 'CEO',
+    result: 'win'
+  },
+  {
+    date: 'March 20, 2025 - 11:00',
+    tier: 'C-Tier',
+    type: 'Online',
+    tournament: '	D1 CChampions Trophy',
+    score: '0:1',
+    opponent: 'SIMPING SHRIMPS',
+    result: 'loss'
+  },
+  {
     date: 'September 17, 2024 - 10:30',
     tier: 'C-Tier',
     type: 'Online',

@@ -18,7 +18,7 @@ interface MatchResultProps {
 export function MatchResult({
   map,
   score,
-  rank,
+  // rank,
   rankNumber,
   placement,
   kda,

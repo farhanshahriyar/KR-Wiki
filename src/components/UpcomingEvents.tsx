@@ -6,7 +6,7 @@ const upcomingMatches = [
   {
     team1: 'KingsRock',
     team2: '-',
-    event: 'EWUCoPC - GameCon Season 1',
+    event: '-',
     date: '1d',
   },
 ];

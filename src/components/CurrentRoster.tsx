@@ -20,7 +20,7 @@ const roster = [
     crownIcon: "fas fa-crown",
     gear: {
       mouse: 'Razer Razer DeathAdder Essential',
-      mousepad: 'Rasure RS-01 Lighting RGB Gaming Mousepad - Black',
+      mousepad: 'VXE MAD R-PAW3395 Wireless 8K Gaming Mouse | Black',
       mousepadSize: '340 x 250 mm',
       monitor: 'Acer HA0 HA220Q BI 22',
       refreshRate: '75 Hz',
@@ -509,7 +509,7 @@ const roster = [
     yearsActive: '2020 - Present',
     team: 'KingsRock',
     totalWinnings: '$137,931',
-    image: 'https://utfs.io/f/cq5eB4pNFkjUc57dxKpNFkjUDgz0Jua19d8EZb6xIBpLnQSw',
+    image: 'https://nsh8o6977a.ufs.sh/f/shAevB82jMTUXDoK0sOVT5ICJSmpBlPDM2WU6FuYQEjH8hsi',
     gear: {
       mouse: 'Meetion-GM22',
       mousepad: 'HyperX',
@@ -580,27 +580,27 @@ const roster = [
     ]
   },
   {
-    name: '🇧🇩 GreenAssassin',
-    fullName: 'Mazbaul Hassan',
+    name: '🇧🇩 Emberfall',
+    fullName: 'Mahbub Hussain Rahul',
     role: 'Controller',
     nationality: '🇧🇩 Bangladesh',
-    joinDate: '2024-12-09',
-    birthDate: 'May 24, 2000',
-    age: '24',
+    joinDate: '2025-11-03',
+    birthDate: 'February 26, 2005',
+    age: '20',
     status: 'Active',
-    yearsActive: '2021- Present',
+    yearsActive: '2022- Present',
     team: 'KingsRock',
-    totalWinnings: '$137,931',
-    image: 'https://utfs.io/f/cq5eB4pNFkjUBwjVDQCzwMW1zNSbuiGZH346heAjmQ7yDOaP',
+    totalWinnings: '0',
+    image: 'https://cdn.discordapp.com/attachments/1351226252681412689/1351226312450117816/3b1ff846-9dd2-47d2-ac9b-356893ce012c.jfif?ex=67e22cd1&is=67e0db51&hm=4b4e5804b5ef78ae757b1d24df237fb669e38ccc72b82cdc7a6619722d3eabae&',
     gear: {
-      mouse: 'Dareu A950 Pro',
+      mouse: 'Aorus m27',
       mousepad: 'FNATIC Gaming Mouse',
       mousepadSize: '700x300mm',
-      monitor: 'ViewSonic VX2428 24',
-      refreshRate: '180 Hz',
-      keyboard: 'Weikav Sugar65',
+      monitor: 'Hikvision DS-D5024F2',
+      refreshRate: '100 Hz',
+      keyboard: 'Thunderbolt k98',
       headset: 'KZ EDX Pro',
-      lastUpdated: '2025-01-06'
+      lastUpdated: '2025-24-03'
     },
     recentMatches: [
       {
@@ -661,6 +661,88 @@ const roster = [
       }
     ]
   },
+  // {
+  //   name: '🇧🇩 GreenAssassin',
+  //   fullName: 'Mazbaul Hassan',
+  //   role: 'Controller',
+  //   nationality: '🇧🇩 Bangladesh',
+  //   joinDate: '2024-12-09',
+  //   birthDate: 'May 24, 2000',
+  //   age: '24',
+  //   status: 'Active',
+  //   yearsActive: '2021- Present',
+  //   team: 'KingsRock',
+  //   totalWinnings: '$137,931',
+  //   image: 'https://utfs.io/f/cq5eB4pNFkjUBwjVDQCzwMW1zNSbuiGZH346heAjmQ7yDOaP',
+  //   gear: {
+  //     mouse: 'Dareu A950 Pro',
+  //     mousepad: 'FNATIC Gaming Mouse',
+  //     mousepadSize: '700x300mm',
+  //     monitor: 'ViewSonic VX2428 24',
+  //     refreshRate: '180 Hz',
+  //     keyboard: 'Weikav Sugar65',
+  //     headset: 'KZ EDX Pro',
+  //     lastUpdated: '2025-01-06'
+  //   },
+  //   recentMatches: [
+  //     {
+  //       map: 'Haven',
+  //       score: '13:7',
+  //       rank: 'Immortal',
+  //       rankNumber: 789,
+  //       placement: '4th',
+  //       kda: '15/9/4',
+  //       kd: 1.7,
+  //       dda: 74,
+  //       hs: 25,
+  //       adr: 161,
+  //       acs: 208,
+  //       timeAgo: '16h ago'
+  //     },
+  //     {
+  //       map: 'Abyss',
+  //       score: '13:2',
+  //       rank: 'Immortal',
+  //       rankNumber: 659,
+  //       placement: '4th',
+  //       kda: '13/7/3',
+  //       kd: 1.9,
+  //       dda: 36,
+  //       hs: 16,
+  //       adr: 125,
+  //       acs: 196,
+  //       timeAgo: '1d ago'
+  //     },
+  //     {
+  //       map: 'Split',
+  //       score: '13:11',
+  //       rank: 'Immortal',
+  //       rankNumber: 461,
+  //       placement: '7th',
+  //       kda: '11/19/17',
+  //       kd: 0.6,
+  //       dda: -31,
+  //       hs: 13,
+  //       adr: 100,
+  //       acs: 161,
+  //       timeAgo: '1d ago'
+  //     },
+  //     {
+  //       map: 'Sunset',
+  //       score: '9:13',
+  //       rank: 'Immortal',
+  //       rankNumber: 808,
+  //       placement: '3rd',
+  //       kda: '21/18/6',
+  //       kd: 1.2,
+  //       dda: 58,
+  //       hs: 14,
+  //       adr: 203,
+  //       acs: 284,
+  //       timeAgo: '1d ago'
+  //     }
+  //   ]
+  // },
 ];
 
 export function CurrentRoster() {

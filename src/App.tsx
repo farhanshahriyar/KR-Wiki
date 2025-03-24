@@ -4,7 +4,7 @@ import { Overview } from '@/components/Overview';
 import { UpcomingEvents } from '@/components/UpcomingEvents';
 import { HistoryTimeline } from '@/components/History/HistoryTimeline';
 import { CurrentRoster } from '@/components/CurrentRoster';
-import { Achievements } from '@/components/Achievements';
+// import { Achievements } from '@/components/Achievements';
 import { Organization } from '@/components/Organization';
 import { Results } from '@/components/Results';
 import { ThemeToggle } from '@/components/ThemeToggle';

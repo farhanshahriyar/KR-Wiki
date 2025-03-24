@@ -16,7 +16,7 @@ export function TeamHeader() {
 
       {/* Content */}
       <div className="relative h-full flex flex-col justify-end p-8">
-        <h1 className="text-6xl font-bold text-white mb-2 tracking-wider">
+        <h1 className="text-6xl font-bold text-white mb-2 tracking-wider font-sans">
           KingsRock
         </h1>
         <div className="flex items-center gap-2 text-gray-200">

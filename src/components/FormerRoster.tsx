@@ -4,6 +4,7 @@ import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@
 const formerMembers = [
     { id: '🇧🇩 BenjirCommando', name: 'Shafaet Jamil', role: 'Sentinel', leaveDate: '2024-09-30' },
     { id: '🇧🇩 Rebel', name: 'Faisal Hasan', role: 'Duelist', leaveDate: '2024-12-08' },
+    { id: '🇧🇩 GreenAssassin', name: 'Mazbaul Hassan', role: 'Controller', leaveDate: '2025-03-03' },
   ];
 
 function FormerRoster() {
