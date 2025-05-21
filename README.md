@@ -135,7 +135,7 @@ To get started with this project locally:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/farhanshahriyar-kr-wiki.git
+git clone https://github.com/farhanshahriyar/farhanshahriyar-kr-wiki.git
 ```
 
 2. Navigate into the project directory:
