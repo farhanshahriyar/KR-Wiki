@@ -12,7 +12,7 @@ KingsRock Official Liquipedia is a React-based web application, designed to prov
 
 ## Overview
 
-The FarhanShahriyar KR Wiki app provides detailed information about various aspects of KR, including its history, players, team rosters, results, and upcoming events. It uses a clean and modern design with a focus on usability. 
+The KR Wiki app provides detailed information about various aspects of KR, including its history, players, team rosters, results, and upcoming events. It uses a clean and modern design with a focus on usability. 
 
 This project is powered by:
 - **React** (with TypeScript)
